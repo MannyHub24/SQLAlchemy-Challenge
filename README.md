@@ -72,10 +72,3 @@ flask run
 
 Go to your browser and visit `http://127.0.0.1:5000/` to see the routes!
 
----
-
-## 💬 Notes
-
-- This was my first time using SQLAlchemy and Flask, so I kept the code simple and easy to understand.
-- If you test the date routes, make sure to use valid dates from the dataset (between 2010 and 2017).
-- Thanks for checking out my project!
